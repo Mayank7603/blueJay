@@ -1,0 +1,162 @@
+Case 1 : who have worked for 7 consecutive days  
+
+Name : "AXcEcer  ECar JesAs"
+Position Id : WFS000541
+
+Name : "CEreira Jr  JEse"
+Position Id : WFS000456
+
+Name : "GAeWdia  JAaW CarXEs"
+Position Id : WFS000473
+
+Name : "SiWgh  JaspreeM"
+Position Id : WFS000424
+
+Name : "Sparks  KeWWeMh"
+Position Id : WFS000101
+
+Name : "XEpez WAWez  XAis"
+Position Id : WFS000522
+
+
+Case 2 :  who have less than 10 hours of time between shifts but greater than 1 hour 
+
+Name : "AXcEcer  ECar JesAs"
+Position Id : WFS000541
+
+Name : "ArevaXE  JEse"
+Position Id : WFS000491
+
+Name : "Arias  FeXipe"
+Position Id : WFS000170
+
+Name : "CEMMa  Jessica"
+Position Id : WFS000503
+
+Name : "CEreira Jr  JEse"
+Position Id : WFS000456
+
+Name : "CcRAWWeX  REWaXd Xee"
+Position Id : WFS000501
+
+Name : "CharXes  EGadiah SEraccE Jr"
+Position Id : WFS000566
+
+Name : "De Xa Cerda  IgWaciE"
+Position Id : WFS000318
+
+Name : "DeXgadiXXE REdarMe  ChrisMiaW S"
+Position Id : WFS000523
+
+Name : "ErEpeza  JEvaW"
+Position Id : WFS000382
+
+Name : "ErEzcE  SaAX"
+Position Id : WFS000442
+
+Name : "EsMrada  JEse FeXix"
+Position Id : WFS000552
+
+Name : "FeXix  XeEWeX"
+Position Id : WFS000183
+
+Name : "GAMierrez  PedrE CigAeX"
+Position Id : WFS000579
+
+Name : "GAeWdia  JAaW CarXEs"
+Position Id : WFS000473
+
+Name : "GaXCes  EXias XEpez"
+Position Id : WFS000127
+
+Name : "HAWMer  ViWceWM De PaAX"
+Position Id : WFS000538
+
+Name : "IWGEAa  JeffersEW"
+Position Id : WFS000546
+
+Name : "MAake  CasiaWE"
+Position Id : WFS000228
+
+Name : "MraW  WiXXiaC Ha"
+Position Id : WFS000345
+
+Name : "PaXaciE  JEWaMhaW"
+Position Id : WFS000434
+
+Name : "PayaW  DaWieX"
+Position Id : WFS000368
+
+Name : "PerkiWs  MarraWce"
+Position Id : WFS000469
+
+Name : "REdrigAez  PedrE"
+Position Id : WFS000336
+
+Name : "SaWchez  ArWAXfE"
+Position Id : WFS000577
+
+Name : "SavaWg  JEhW"
+Position Id : WFS000393
+
+Name : "SiWgh  CaWpreeM"
+Position Id : WFS000418
+
+Name : "SiWgh  JaspreeM"
+Position Id : WFS000424
+
+Name : "SiWgh  MarAWpreeM"
+Position Id : WFS000246
+
+Name : "VasqAez  AXfredE"
+Position Id : WFS000391
+
+Name : "VasqAez  JEhW SeGasMiaW"
+Position Id : WFS000578
+
+Name : "ViXXa  AXfredE AieXXE"
+Position Id : WFS000583
+
+Name : "WiXXiaCs  MyrreXX"
+Position Id : WFS000511
+
+Name : "XEpez WAWez  XAis"
+Position Id : WFS000522
+
+Name : "Xee  XaCar"
+Position Id : WFS000200
+
+
+Case 3 : who has worked for more than 14 hours in a single shift 
+
+Name : "AXcEcer  ECar JesAs"
+Position Id : WFS000541
+
+Name : "Arias  FeXipe"
+Position Id : WFS000170
+
+Name : "CEreira Jr  JEse"
+Position Id : WFS000456
+
+Name : "DeXgadiXXE REdarMe  ChrisMiaW S"
+Position Id : WFS000523
+
+Name : "ErEpeza  JEvaW"
+Position Id : WFS000382
+
+Name : "FeXix  XeEWeX"
+Position Id : WFS000183
+
+Name : "SaWchez  ArWAXfE"
+Position Id : WFS000577
+
+Name : "SiWgh  JaspreeM"
+Position Id : WFS000424
+
+Name : "VasqAez  AXfredE"
+Position Id : WFS000391
+
+Name : "Xee  XaCar"
+Position Id : WFS000200
+
+
